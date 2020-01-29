@@ -1,0 +1,206 @@
+*{
+    margin: o;
+padding: 0;
+box-sizing: border-box;
+}
+.first{
+    text-align: center;
+ background-size: cover;
+ background-position: center;
+padding: 12rem 0;
+background-repeat: no-repeat;
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+
+}
+.first h1{
+    font-size: 88px;
+    color: #212529;
+}
+.first h3{
+    font-size: 28px;
+    color: #212529;
+}
+.first button{
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1D809f;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.8;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: .5s;
+}
+.first button:hover{
+    background: #1c252e;
+}
+
+.second{
+    text-align: center;
+    padding: 10rem 0;
+}
+.second h2{
+    font-size: 32px;
+    color: #212529;
+}
+.second p{
+    font-size: 20px;
+    color: #212529;
+}
+.second button{
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #212529;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.third{
+    text-align: center;
+    background-color: #1D809f;
+    padding: 5rem 0 12rem 0;
+}
+.third .third-text h3{
+    color: #ecb807;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.third .third-text h2{
+    color: #ffffff;
+    font-size: 48px;
+
+}
+.all{
+    margin-top: 30px;
+}
+.all .box{
+width: 25%;
+float: left;
+}
+.box i{
+    background-color: #ffffff;
+    border-radius: 50px;
+    font-size: 36px;
+    color: #1D809f;
+    padding: 20px;
+
+}
+.box h4,p{
+    color: #ffffff;
+}
+
+
+
+
+.fourth{
+    background: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 12rem 0;
+}
+.fourth h2{
+    font-size: 56px;
+    color: #212529;
+}
+.fourth button{
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1d809f;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.fifth{
+    text-align: center;
+}
+.fifth .fifth-text h3{
+    color: #ecb807;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.fifth .fifth-text h2{
+    color: #000000;
+    font-size: 48px;
+}
+.fifth .image-box{
+    width: 50%;
+    float: left;
+
+}
+.clear{
+    clear: both;
+}
+.image-all{
+    width: 80%;
+    margin: auto;
+}
+
+.image-box img{
+    width: 100%;
+transition: .6s;
+}
+.image-box img:hover{
+    transform: scale(.7);
+}
+.sixth {
+    text-align: center;
+    background: #1D809f;
+    padding: 4rem 0;
+    margin-top: 5rem;
+}
+.sixth h2{
+    font-size: 32px;
+    color: #ffffff;
+}
+.sixth button{
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.sixth .btn1{
+    font-size: 16px;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.social{
+    text-align: center;
+    padding: 9rem o;
+}
+.social p{
+    color: #212529;
+}
+.social .social-box i{
+    color: #ffffff;
+    background: #1D809f;
+    border-radius: 50px;
+    font-size: 30px;
+    transition: 0.8s;
+    cursor: pointer;
+    margin: 5px;
+    padding: 7px;
+}
+}
+.social-box i:hover{
+    box-shadow: 0px -1px 20px 3px black;
+}
+
+
+
